@@ -18,6 +18,7 @@ First semester:
 - Software and Hardware support - IT Essentials (Soporte de software y hardware - IT Essentials)
 - Introduction to Information Technologies (Introducción a las Tecnologías de la Información)
 - Web Architecture - HTML+CSS (Arquitectura de Entornos Web - HMTL+CSS)
+- aceptame xd
 
 Second semester:
 - Network Fundamentals - CCNA I (Fundamentos de Red - CCNA I)
